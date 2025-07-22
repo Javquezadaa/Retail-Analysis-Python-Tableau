@@ -132,5 +132,5 @@ The main objectives of this project are:
 
 ## Portfolio and Tableau Links
 
-- **Portfolio:** [Your Portfolio Link Here]  
+- **Portfolio:** [Portfolio](https://drive.google.com/file/d/1SwVTvJQ05PlFbTu70twsX9r4Buzqthqt/view?usp=drive_link) 
 - **Tableau Dashboard:** [Retail Analysis on Tableau](https://public.tableau.com/views/Achievement6_RetailAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
